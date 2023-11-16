@@ -1,4 +1,4 @@
-### Hi there 👋
+### 김가희입니다. 👋
 
 <!--
 **gmlgml5023/gmlgml5023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
