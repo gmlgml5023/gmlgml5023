@@ -1,17 +1,18 @@
-### 반갑습니다. 👋
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B1%B4-%EC%9D%B4-26771614b/)](https://www.linkedin.com/in/%EA%B1%B4-%EC%9D%B4-26771614b/) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/Geon-Lee-0a2ead807ec24791b5f75a5d0974fca8)](https://www.notion.so/Geon-Lee-0a2ead807ec24791b5f75a5d0974fca8)
-
-
-* 💻 데이터를 기반으로
-* 🎨 유저를 생각하며 UI/UX 디자인에 관심이 많습니다.
+### 🐱 About Me
+* 💻 데이터와 통계를 기반으로
+* 📊 인사이트를 도출하는 데 관심이 많습니다.
 * 😎 나만의 일을 찾기위해 열심히 노력중입니다.
+<br>
 
-**언어 및 도구**  
+### ⚒️ Stacks
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"></code>
+<code><img height="20" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"></code>
+<br>
+
+### ⛏️ Tools
+
+<code><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></code>
