@@ -1,18 +1,20 @@
-### 🐱 About Me
-* 💻 데이터와 통계학을 기반으로
-* 📊 인사이트를 도출하는 데 관심이 많습니다.
-* ⌨️ 개발 역량 향상을 위해 노력중입니다.
+### 🧒🏻 About Me
+
+* 📊 I'm majoring in information statistics.
+* 💻 I'm studying Data Science.
+* ⌨️ I'm currently studying Python development.
+* 🔥 I strive to live an enterprising life with constant curiosity about my future.
+
 <br>
 
 ### ⚒️ Stacks
+| <img src="images/stacks/python.png" width=60> | <img src="images/stacks/pytorch.png" width=60> | <img src="images/stacks/tensorflow.png" width=60> | <img src="images/stacks/selenium.png" width=60> | <img src="images/stacks/oracle.png" width=60> | <img src="images/stacks/R.svg" width=60> | <img src="images/stacks/aws.png" width=60> |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
-<code><img height="20" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"></code>
 <br>
 
-### ⛏️ Tools
+### ⚒️ Tools
 
-<code><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></code>
+|<img src="images/tools/git.png" width=60>| <img src="images/tools/github.png" width=60>| <img src="images/tools/visualstudio.png" width=60> | <img src="images/tools/anaconda.png" width=60> | <img src="images/tools/jupyter.png" width=60> |
+|:---:|:---:|:---:|:---:|:---:|
+
