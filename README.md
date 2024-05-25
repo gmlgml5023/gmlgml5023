@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=17526B&random=false&width=435&lines=About+Me)](https://git.io/typing-svg)
 
 * 📊 I'm majoring in statistics.
-* 💻 I'm studying Data Scienc.
+* 💻 I'm studying Data Science.
 * ⌨️ I'm currently studying Python development.
 
 <br>
